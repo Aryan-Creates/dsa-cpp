@@ -20,3 +20,11 @@ learning resources and problem-solving platforms.
 - This is an active learning repository
 - Code is added progressively as concepts are learned
 - Focus is on clarity and correctness over quantity
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
