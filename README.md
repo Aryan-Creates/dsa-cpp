@@ -27,4 +27,5 @@ learning resources and problem-solving platforms.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
