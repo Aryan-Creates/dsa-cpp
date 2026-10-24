@@ -34,6 +34,7 @@ learning resources and problem-solving platforms.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0204-count-primes) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Aryan-Creates/dsa-cpp/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Enumeration
 |  |
 | ------- |
@@ -54,4 +55,24 @@ learning resources and problem-solving platforms.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0204-count-primes) |
+## Binary Search
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Aryan-Creates/dsa-cpp/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Greedy
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Aryan-Creates/dsa-cpp/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Aryan-Creates/dsa-cpp/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Sorting
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Aryan-Creates/dsa-cpp/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Aryan-Creates/dsa-cpp/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
