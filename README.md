@@ -75,4 +75,12 @@ learning resources and problem-solving platforms.
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aryan-Creates/dsa-cpp/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
