@@ -30,6 +30,7 @@ learning resources and problem-solving platforms.
 | [0009-palindrome-number](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0507-perfect-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Aryan-Creates/dsa-cpp/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@ learning resources and problem-solving platforms.
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aryan-Creates/dsa-cpp/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2032-largest-odd-number-in-string](https://github.com/Aryan-Creates/dsa-cpp/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,4 +87,5 @@ learning resources and problem-solving platforms.
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0344-reverse-string) |
+| [2032-largest-odd-number-in-string](https://github.com/Aryan-Creates/dsa-cpp/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
