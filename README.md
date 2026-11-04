@@ -34,6 +34,7 @@ learning resources and problem-solving platforms.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0014-longest-common-prefix) |
 | [0204-count-primes](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0204-count-primes) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aryan-Creates/dsa-cpp/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Enumeration
@@ -85,7 +86,12 @@ learning resources and problem-solving platforms.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0344-reverse-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Aryan-Creates/dsa-cpp/tree/master/2032-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
