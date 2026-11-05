@@ -88,10 +88,15 @@ learning resources and problem-solving platforms.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0344-reverse-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Aryan-Creates/dsa-cpp/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
