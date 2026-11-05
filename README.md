@@ -90,6 +90,7 @@ learning resources and problem-solving platforms.
 | [0125-valid-palindrome](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0344-reverse-string) |
+| [0812-rotate-string](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Aryan-Creates/dsa-cpp/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -99,4 +100,8 @@ learning resources and problem-solving platforms.
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0205-isomorphic-strings) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
