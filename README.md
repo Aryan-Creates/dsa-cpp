@@ -36,6 +36,7 @@ learning resources and problem-solving platforms.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0014-longest-common-prefix) |
 | [0204-count-primes](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0204-count-primes) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aryan-Creates/dsa-cpp/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aryan-Creates/dsa-cpp/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Enumeration
 |  |
