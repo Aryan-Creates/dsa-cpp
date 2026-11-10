@@ -30,6 +30,7 @@ learning resources and problem-solving platforms.
 | [0009-palindrome-number](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/Aryan-Creates/dsa-cpp/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Aryan-Creates/dsa-cpp/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -108,4 +109,16 @@ learning resources and problem-solving platforms.
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Aryan-Creates/dsa-cpp/tree/master/0812-rotate-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Aryan-Creates/dsa-cpp/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Aryan-Creates/dsa-cpp/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Aryan-Creates/dsa-cpp/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
