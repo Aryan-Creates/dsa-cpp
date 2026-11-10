@@ -1,11 +1,12 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-        vector<int> nums1 = nums;
-        vector<int> original = nums;
-        sort(nums1.begin(), nums1.end());
-        nums.insert(nums.end(), original.begin(), original.end());
-        auto result = ranges::search(nums, nums1);
-        return (!result.empty());
+    int count = 0;
+    int n = nums.size();
+    for(int i = 0; i < n; i++) {
+        if(nums[i] > nums[(i + 1) % n])
+        count++;
+    }
+    return count <= 1;
     }
 };
